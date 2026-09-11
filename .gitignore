@@ -1,0 +1,5 @@
+node_modules/
+auth.json
+cookie.txt
+.env
+.DS_Store
